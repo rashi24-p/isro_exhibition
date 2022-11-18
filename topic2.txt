@@ -1,0 +1,29 @@
+GSLV MKIII Project was approved in 2002, with a mandate of achieving the capability to launch 4 ton class satellite to Geo-Synchronous orbit, by realizing indigenously developed launch vehicle. Development programme has been completed through three successful flights LVM3 X,GSLV MkIII D1 and GSLV MkIII D2.
+
+GSLV MKIII
+Vehicle Specifications
+Height	43.5 m
+Vehicle Diameter	4.0 m
+Heat Shield (Payload Fairing) Diameter	5.0 m
+PLF Usable Volume	110m3
+Number of Stages	3
+Lift Off Mass	640 tonnes
+GSLV MkIII is configured as a three stage vehicle with two solid strap-on motors (S200), one liquid core stage (L110) and a high thrust cryogenic upper stage (C25). The S200 solid motor is among the largest solid boosters in the world with 204 tonnes of solid propellant. The liquid L110 stage uses a twin liquid engine configuration with 115 tonnes of liquid propellant, while the C25 Cryogenic upper stage is configured with the fully indigenous high thrust cryogenic engine (CE20) with a propellant loading of 28 tons. The overall length of the vehicle is 43.5 m with a gross lift-off weight of 640 tonnes and a 5m-diameter payload fairing.
+
+Characteristics of GSLV MkIII:
+
+Performance capability of 4.3 ton to GTO
+Payload capability to support 10 ton to Low Earth Orbit (LEO) missions
+Cost effective
+Improved reliability, operability and redundancy management
+Future growth potential of payload with minimal design changes
+To support man rated missions of Indian Space Programme
+GSLV Mk III continuation programme (Phase1)
+GSLV MkIII continuation programme (Phase1) was approved in June, 2018 to realise 10 Nos of GSLV Mk-III vehicles to meet the programmatic requirements to launch communication satellites up to the year 2023. The maiden operational flight of GSLV MkIII has successfully launched Chandrayaan-2 spacecraft into the Super Geo-Synchronous Transfer Orbit on July 22 2019 at 14:43:12 hrs (IST).
+
+GROWTH POTENTIAL OF 6 TONS TO GTO IN FUTURE
+
+The payload capability of GSLV MKIII will be increased upto 6 tons to GTO by induction of a High Propulsive Stage (Semi-Cryogenic stage SC120) in lieu of the present L110 and also by increased propellant loading of Cryogenic stage.
+
+Human rated GSLV MkIII
+Human rated GSLV MkIII is identified as the launch vehicle for Gaganyaan mission. Gaganyaan programme aims at carrying three Crew to Low Earth Orbit (LEO) and bring them back safely to a predetermined location on Earth. Current GSLV MKIII vehicle is identified to be human rated and proposed to use in Gaganyaan mission.
