@@ -1,4 +1,5 @@
 GSLV MKIII Project was approved in 2002, with a mandate of achieving the capability to launch 4 ton class satellite to Geo-Synchronous orbit, by realizing indigenously developed launch vehicle. Development programme has been completed through three successful flights LVM3 X,GSLV MkIII D1 and GSLV MkIII D2.
+GSLV mk 3 will be capable of placing the 4 tonne class satellites of the gsat series into geosynchronous transfer orbit.
 
 GSLV MKIII
 Vehicle Specifications
